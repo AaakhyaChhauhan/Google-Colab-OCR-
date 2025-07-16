@@ -7,12 +7,3 @@ Tesseract OCR (via pytesseract)
 OpenCV for image handling
 MySQL or PHP backend (optional integration)
 
-🔗 Credits
-
-Built using:
-
-Google Colab
-
-Tesseract OCR
-
-OpenCV
