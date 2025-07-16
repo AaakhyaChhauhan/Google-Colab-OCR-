@@ -8,10 +8,3 @@ OpenCV for image handling
 MySQL or PHP backend (optional integration)
 
 
-How to Use
-Open the Google Colab Notebook
-Upload your image (JPG, PNG, etc.)
-Run the cell to extract text
-(Optional) Send the OCR result to a backend for storage
-
-
