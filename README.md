@@ -8,6 +8,7 @@ OpenCV for image handling
 MySQL or PHP backend (optional integration)
 
 🔗 Credits
+
 Built using:
 
 Google Colab
