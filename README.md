@@ -1,6 +1,6 @@
-# Google-Colab-OCR-
+# Google-Colab-OCR-Python
  OCR Invoice Text Extractor using Google Colab + Tesseract
-
+ 
 <p align="center">
   <img src="banner2.png" alt="Banner for OCR Invoice Text Extractor">
 </p>
